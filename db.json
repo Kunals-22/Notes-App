@@ -1,0 +1,25 @@
+{
+  "notes": [
+    {
+      "id": "2",
+      "body": "Bob from bar down \n\n- Take out trash\n- Eat food\n- Create React Projects",
+      "updated": "2024-02-07T19:27:22.052Z",
+      "created": "2021-07-13T00:17:13.289897Z"
+    },
+    {
+      "id": "c3b3",
+      "body": "Wash Car",
+      "updated": "2024-02-07T19:13:17.239Z"
+    },
+    {
+      "id": "fd0b",
+      "body": "Complete this React Project",
+      "updated": "2024-02-07T19:13:56.055Z"
+    },
+    {
+      "id": "0582",
+      "body": "Learn Sql",
+      "updated": "2024-02-08T08:58:11.561Z"
+    }
+  ]
+}
